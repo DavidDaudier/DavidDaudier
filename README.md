@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @DavidDaudier
-- 👀 I’m interested in Web development, App development, IoT, Software developement, Game development and graphic design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 **Hello, I'm David Daudier**
+🚀 *Digital Craftsmanship: Code • Design • Innovation* 
 
-<!---
-DavidDaudier/DavidDaudier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💼 **Professional Profile**
+**EN**: Full-Stack Developer specializing in immersive digital experiences. Bridging technical precision with creative vision to build solutions that resonate.  
+
+### 🌟 **Expertise**
+- **Mobile**: Java Android | Flutter | Ionic
+- **Web**: Angular | TypeScript | SpringBoot | Php | Express JS | Node JS
+- **DataBase** : Oracle | SQL | MySQL| MongoDB(NoSQL)
+- **Design**: UI/UX | Figma
+
+### 🛠 **Current Focus** 
+🔧 **EN**: Designing scalable microservices for businesses
+
+### 📬 **Let's Connect**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5)](votre-lien)  
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836)](mailto:votre@email.com)  
+
+---
+
+### 🎨 **Creative Touch** (Optional)  
+*"I speak JSON, CSS, and occasionally human."*  
+*"Je parle JSON, CSS, et parfois français."*  
