@@ -4,9 +4,8 @@
 <br>💼 Full-Stack Developer specializing in immersive digital experiences.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bridging technical precision with creative vision to build solutions that resonate..
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DavidDaudier) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profil.php?id=100090089572547)
+# 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DavidDaudier)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daudierd95@gmail.com) 
 
 # 💻 Tech Stack:
